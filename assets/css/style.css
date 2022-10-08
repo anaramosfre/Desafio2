@@ -1,0 +1,68 @@
+.principal {
+    background-image: url(/assets/img/Principal.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    font-style: oblique;
+}
+
+.principal h1 {
+    font-size: 65px;
+    padding-top: 60px;
+    padding-left: 250px;
+    margin: 0px;
+}
+
+.principal h2 {
+    font-size: 40px;
+    padding-top: 10px;
+    padding-left: 120px;
+    margin: 0px;
+}
+
+.logo {
+    width:150px;
+    height:150px;
+    border-radius:160px;
+    border:5px solid;
+    border-color:bisque;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+
+.contenido {
+    width: 80%;
+    margin: 70px auto;
+}
+
+.producto {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.descripcion {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    margin-left: 200px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.valor {
+    color: green;
+    font-size: 25px;
+}
+
+.fotos {
+    width: 500px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgba(78, 76, 76, 0.938);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
